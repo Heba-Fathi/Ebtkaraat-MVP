@@ -1,0 +1,7 @@
+C:\Users\EGYPT_LAPTOP\source\repos\Ebtkarat\Ebtkarat.Tournament\bin\Debug\Ebtkarat.Tournament.exe.config
+C:\Users\EGYPT_LAPTOP\source\repos\Ebtkarat\Ebtkarat.Tournament\bin\Debug\Ebtkarat.Tournament.exe
+C:\Users\EGYPT_LAPTOP\source\repos\Ebtkarat\Ebtkarat.Tournament\bin\Debug\Ebtkarat.Tournament.pdb
+C:\Users\EGYPT_LAPTOP\source\repos\Ebtkarat\Ebtkarat.Tournament\obj\Debug\Ebtkarat.Tournament.csprojAssemblyReference.cache
+C:\Users\EGYPT_LAPTOP\source\repos\Ebtkarat\Ebtkarat.Tournament\obj\Debug\Ebtkarat.Tournament.csproj.CoreCompileInputs.cache
+C:\Users\EGYPT_LAPTOP\source\repos\Ebtkarat\Ebtkarat.Tournament\obj\Debug\Ebtkarat.Tournament.exe
+C:\Users\EGYPT_LAPTOP\source\repos\Ebtkarat\Ebtkarat.Tournament\obj\Debug\Ebtkarat.Tournament.pdb
